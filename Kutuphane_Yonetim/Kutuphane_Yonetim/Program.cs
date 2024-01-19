@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.Json;
 
+
+//Velo Games - Intern - Ismail Can Erge - Discord(Heiyra)
+
 class Book
 {
     public string Title { get; set; }
