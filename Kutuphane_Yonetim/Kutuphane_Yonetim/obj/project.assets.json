@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\callo\\source\\repos\\Kutuphane_Yonetim\\Kutuphane_Yonetim\\Kutuphane_Yonetim.csproj",
+      "projectUniqueName": "C:\\Unity Stroge\\Github\\Library_Managment\\Kutuphane_Yonetim\\Kutuphane_Yonetim\\Kutuphane_Yonetim.csproj",
       "projectName": "Kutuphane_Yonetim",
-      "projectPath": "C:\\Users\\callo\\source\\repos\\Kutuphane_Yonetim\\Kutuphane_Yonetim\\Kutuphane_Yonetim.csproj",
+      "projectPath": "C:\\Unity Stroge\\Github\\Library_Managment\\Kutuphane_Yonetim\\Kutuphane_Yonetim\\Kutuphane_Yonetim.csproj",
       "packagesPath": "C:\\Users\\callo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\callo\\source\\repos\\Kutuphane_Yonetim\\Kutuphane_Yonetim\\obj\\",
+      "outputPath": "C:\\Unity Stroge\\Github\\Library_Managment\\Kutuphane_Yonetim\\Kutuphane_Yonetim\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\callo\\AppData\\Roaming\\NuGet\\NuGet.Config",

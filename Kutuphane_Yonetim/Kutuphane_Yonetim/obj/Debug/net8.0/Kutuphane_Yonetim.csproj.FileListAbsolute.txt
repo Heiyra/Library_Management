@@ -12,3 +12,18 @@ C:\Users\callo\source\repos\Kutuphane_Yonetim\Kutuphane_Yonetim\obj\Debug\net8.0
 C:\Users\callo\source\repos\Kutuphane_Yonetim\Kutuphane_Yonetim\obj\Debug\net8.0\Kutuphane_Yonetim.pdb
 C:\Users\callo\source\repos\Kutuphane_Yonetim\Kutuphane_Yonetim\obj\Debug\net8.0\Kutuphane_Yonetim.genruntimeconfig.cache
 C:\Users\callo\source\repos\Kutuphane_Yonetim\Kutuphane_Yonetim\obj\Debug\net8.0\ref\Kutuphane_Yonetim.dll
+C:\Unity Stroge\Github\Library_Managment\Kutuphane_Yonetim\Kutuphane_Yonetim\bin\Debug\net8.0\Kutuphane_Yonetim.exe
+C:\Unity Stroge\Github\Library_Managment\Kutuphane_Yonetim\Kutuphane_Yonetim\bin\Debug\net8.0\Kutuphane_Yonetim.deps.json
+C:\Unity Stroge\Github\Library_Managment\Kutuphane_Yonetim\Kutuphane_Yonetim\bin\Debug\net8.0\Kutuphane_Yonetim.runtimeconfig.json
+C:\Unity Stroge\Github\Library_Managment\Kutuphane_Yonetim\Kutuphane_Yonetim\bin\Debug\net8.0\Kutuphane_Yonetim.dll
+C:\Unity Stroge\Github\Library_Managment\Kutuphane_Yonetim\Kutuphane_Yonetim\bin\Debug\net8.0\Kutuphane_Yonetim.pdb
+C:\Unity Stroge\Github\Library_Managment\Kutuphane_Yonetim\Kutuphane_Yonetim\obj\Debug\net8.0\Kutuphane_Yonetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity Stroge\Github\Library_Managment\Kutuphane_Yonetim\Kutuphane_Yonetim\obj\Debug\net8.0\Kutuphane_Yonetim.AssemblyInfoInputs.cache
+C:\Unity Stroge\Github\Library_Managment\Kutuphane_Yonetim\Kutuphane_Yonetim\obj\Debug\net8.0\Kutuphane_Yonetim.AssemblyInfo.cs
+C:\Unity Stroge\Github\Library_Managment\Kutuphane_Yonetim\Kutuphane_Yonetim\obj\Debug\net8.0\Kutuphane_Yonetim.csproj.CoreCompileInputs.cache
+C:\Unity Stroge\Github\Library_Managment\Kutuphane_Yonetim\Kutuphane_Yonetim\obj\Debug\net8.0\Kutuphane_Yonetim.sourcelink.json
+C:\Unity Stroge\Github\Library_Managment\Kutuphane_Yonetim\Kutuphane_Yonetim\obj\Debug\net8.0\Kutuphane_Yonetim.dll
+C:\Unity Stroge\Github\Library_Managment\Kutuphane_Yonetim\Kutuphane_Yonetim\obj\Debug\net8.0\refint\Kutuphane_Yonetim.dll
+C:\Unity Stroge\Github\Library_Managment\Kutuphane_Yonetim\Kutuphane_Yonetim\obj\Debug\net8.0\Kutuphane_Yonetim.pdb
+C:\Unity Stroge\Github\Library_Managment\Kutuphane_Yonetim\Kutuphane_Yonetim\obj\Debug\net8.0\Kutuphane_Yonetim.genruntimeconfig.cache
+C:\Unity Stroge\Github\Library_Managment\Kutuphane_Yonetim\Kutuphane_Yonetim\obj\Debug\net8.0\ref\Kutuphane_Yonetim.dll
